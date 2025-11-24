@@ -1,0 +1,8 @@
+datasets
+openai
+python-dotenv
+matplotlib
+pandas
+jsonschema
+tqdm
+numpy
